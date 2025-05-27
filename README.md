@@ -1,7 +1,7 @@
 # Портфолио 
 
 ## Контакты
-**Валерия Беляева**
+**Валерия Беляева**  
 **Telegram:** [@irisu\_r](https://t.me/irisu_r)  
 **VK:** [vk.com/iresu](https://vk.com/iresu)
 
