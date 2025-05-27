@@ -12,7 +12,7 @@
 * **Python и OOP:** SOLID, паттерны проектирования (Observer и тп)
 * **Многопоточность и асинхронность:** threading, asyncio
 * **Контейнеризация и CI/CD:** Docker, Docker Compose, GitHub Actions
-* **REST API и БД:** разработка сервисов на Flask/FastAPI, PostgreSQL, оптимизация SQL-запросов
+* **REST API и БД:** разработка сервисов на Flask/FastAPI, PostgreSQL, ORM (Alchimi, SQL)
 * **Git и командная разработка:** ветвление, code review, Agile-методологии
 * **Тестирование кода:** unittest/pytest, интеграционные тесты, статический анализ
 * **ML:** (участие в хакатонах) разработка небольших проектов с обучением нейронных сетей. Предобработка данных 
