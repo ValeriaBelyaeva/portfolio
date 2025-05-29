@@ -3,7 +3,8 @@
 ## Контакты
 **Беляева Валерия Андреевна**  
 **Telegram:** [@irisu\_r](https://t.me/irisu_r)  
-**VK:** [vk.com/iresu](https://vk.com/iresu)
+**VK:** [vk.com/iresu](https://vk.com/iresu)  
+**Телефон:** +79675527010  
 
 ---
 
